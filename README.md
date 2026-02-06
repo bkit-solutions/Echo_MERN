@@ -1,4 +1,4 @@
-## echo_mern 🛒⚙️
+## Echo_MERN 🛒⚙️
 
 A Full-Stack MERN E-Commerce Platform with Admin Panel
 
