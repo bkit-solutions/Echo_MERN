@@ -1,10 +1,10 @@
-# ShopCart 🏢🛍️
-An interactive Single Page Application (SPA) offering all the essential and advanced features of an E-commerce platform. ShopCart not only serves as a seamless shopping platform for users but also includes a dedicated **Admin Panel** for managing data and operations efficiently.
+## echo_mern 🛒⚙️
 
----
+A Full-Stack MERN E-Commerce Platform with Admin Panel
 
-## 🎥 Short Video Demo
-[Click here to watch the demo](https://github.com/user-attachments/assets/cfb04526-b484-4cab-a5b9-c72d78d4a878)
+echo_mern is a production-grade Single Page Application (SPA) built using the MERN stack, providing complete e-commerce functionality for users along with a powerful Admin Dashboard for managing products, orders, and users.
+
+Built with scalability, clean UI, and real-world workflows in mind.
 
 ---
 
@@ -58,12 +58,12 @@ Follow these steps to get ShopCart running on your local machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/shubham-mehta-002/ShopCart-E-CommerceWebsite.git
+    git clone https://github.com/bkit-solutions/Echo_MERN.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd ShopCart-E-CommerceWebsite
+    cd Echo_MERN
     ```
 
 3. **Install dependencies for both backend and frontend**:
@@ -139,12 +139,3 @@ We welcome contributions to make ShopCart even better! Here’s how you can help
 - Provide detailed descriptions in your pull requests.
 
 ---
-
-
-## 🔍 Find Me Here
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/shubham-mehta-6b8115284) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/shubham-mehta-002) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/mehtashubham002) 
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge)](https://shubham-mehta.hashnode.dev/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mehta.shubham002@gmail.com)
