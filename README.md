@@ -109,33 +109,17 @@ Follow these steps to get ShopCart running on your local machine:
 
 
 
+## 🔮 Planned Enhancements
 
-## 👤 Contributing
+Online payment gateway integration
 
-We welcome contributions to make ShopCart even better! Here’s how you can help:
+PDF invoice generation
 
-1. **Fork the Repository**: Create your own copy of the repository by clicking the "Fork" button.
-2. **Clone the Repository**: Clone your forked repository to your local machine using:
-   ```bash
-   git clone https://github.com/<your-username>/shopcart.git
-   ```
-3. **Create a New Branch**: Create a new branch for your feature or bugfix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-4. **Make Changes**: Add your changes and commit them with clear messages.
-   ```bash
-   git commit -m "Add: Your feature description"
-   ```
-5. **Push to Your Fork**: Push the changes to your forked repository:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-6. **Create a Pull Request**: Submit a pull request to the main repository with a clear description of your changes.
+Order shipment tracking
 
-### Guidelines:
-- Ensure your code is well-tested and adheres to the project’s coding standards.
-- Write clear commit messages.
-- Provide detailed descriptions in your pull requests.
+Admin analytics dashboard
 
----
+## 👨‍💻 Built By
+
+## BKIT
+Full-Stack MERN Development Project
