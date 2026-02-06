@@ -1,0 +1,11 @@
+#root {
+  min-height: 100vh;
+  padding: 1.5rem;
+  background-color: #f8fafc; /* slate-50 */
+}
+
+/* Remove Vite demo leftovers */
+.logo,
+.read-the-docs {
+  display: none;
+}

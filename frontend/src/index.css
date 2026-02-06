@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===============================
+   Global SaaS Theme (Blue + White)
+   =============================== */
+
+:root {
+  --brand-primary: #2563eb;   /* blue-600 */
+  --brand-secondary: #1e40af; /* blue-800 */
+  --bg-main: #f8fafc;         /* slate-50 */
+  --bg-card: #ffffff;
+  --text-main: #0f172a;       /* slate-900 */
+  --text-muted: #64748b;      /* slate-500 */
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  margin: 0;
+}
+
+/* Smooth UI */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #c7d2fe transparent;
+}
+
+/* SaaS Cards */
+.card {
+  @apply bg-white rounded-xl shadow-sm border border-slate-200;
+}
+
+/* Primary Button */
+.btn-primary {
+  @apply bg-blue-600 text-white px-4 py-2 rounded-lg font-medium 
+         hover:bg-blue-700 transition disabled:opacity-50;
+}
+
+/* Secondary Button */
+.btn-secondary {
+  @apply bg-white text-blue-600 border border-blue-200 
+         px-4 py-2 rounded-lg font-medium hover:bg-blue-50 transition;
+}
+
+/* Inputs */
+.input {
+  @apply w-full px-3 py-2 rounded-lg border border-slate-300
+         focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500;
+}
+
+/* Section Headings */
+.section-title {
+  @apply text-lg font-semibold text-slate-800 mb-4;
+}
+
+/* Sub text */
+.text-muted {
+  @apply text-slate-500 text-sm;
+}
